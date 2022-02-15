@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9a19909c-3e81-3719-371e-073643365598
 title: Reading the City
 uid: aecac14d-3981-02c1-3364-a354c44c2a8d

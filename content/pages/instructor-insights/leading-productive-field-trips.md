@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9a19909c-3e81-3719-371e-073643365598
 title: Leading Productive Field Trips
 uid: 9f88e4ee-f73d-6ef4-f59b-c45fa9badc7d

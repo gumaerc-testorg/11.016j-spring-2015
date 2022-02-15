@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2b653594-7e36-695e-77f0-817e67553db4
 title: 'Assignment Guide: Journals'
 uid: bf2053d9-013c-9b07-eb2c-da426f3f66da

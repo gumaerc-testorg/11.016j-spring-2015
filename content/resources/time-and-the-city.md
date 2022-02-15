@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Assignments
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Assignment 3: Your Site Over Time'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Time and the City
 uid: 4ee6ac18-c91d-3fca-1497-4ee532384de1
 video_files:
   archive_url: https://archive.org/download/MIT11.016JS15/MIT11_016JS15_Time_and_the_City_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/11-016j-the-once-and-future-city-spring-2015/bde161baab8e511a8fbdbbd163266899_LJNAUHOmpAY.vtt
+  video_captions_file: /courses/11-016j-the-once-and-future-city-spring-2015/bde161baab8e511a8fbdbbd163266899_LJNAUHOmpAY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/LJNAUHOmpAY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/11-016j-the-once-and-future-city-spring-2015/046ba94fb330997ea76d82562021927e_LJNAUHOmpAY.pdf
+  video_transcript_file: /courses/11-016j-the-once-and-future-city-spring-2015/046ba94fb330997ea76d82562021927e_LJNAUHOmpAY.pdf
 video_metadata:
   youtube_id: LJNAUHOmpAY
 ---

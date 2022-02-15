@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9a19909c-3e81-3719-371e-073643365598
 title: "Flipping the Class and Challenging the Students with \u201CA Series of Puzzles\u201D"
 uid: ba42cb06-6687-5e06-c497-ddb8645fc880

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2b653594-7e36-695e-77f0-817e67553db4
 title: 'Assignment 2: Your Site and Natural Processes'
 uid: bf39994b-1e14-9bcb-34d1-e88a771e27fe

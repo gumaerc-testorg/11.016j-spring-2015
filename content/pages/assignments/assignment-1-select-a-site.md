@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2b653594-7e36-695e-77f0-817e67553db4
 title: 'Assignment 1: Select A Site'
 uid: f1403dd2-7f4d-6cf8-923d-478a894b6205

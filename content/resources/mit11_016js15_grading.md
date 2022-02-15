@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-016j-the-once-and-future-city-spring-2015/3729ca63f436ecaa842a0122d0e2502e_MIT11_016JS15_Grading.pdf
+file: /media/courses/11-016j-the-once-and-future-city-spring-2015/3729ca63f436ecaa842a0122d0e2502e_MIT11_016JS15_Grading.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT 11.016J S15 Grading Criteria
 uid: 3729ca63-f436-ecaa-842a-0122d0e2502e

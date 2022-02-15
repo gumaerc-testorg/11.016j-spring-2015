@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9a19909c-3e81-3719-371e-073643365598
 title: Structuring a Communication-Intensive Course
 uid: 79681dbc-2d6a-6f6a-ad52-967561f132f7

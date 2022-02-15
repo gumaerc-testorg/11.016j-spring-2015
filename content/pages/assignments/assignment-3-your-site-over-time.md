@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2b653594-7e36-695e-77f0-817e67553db4
 title: 'Assignment 3: Your Site Over Time'
 uid: 94eadc85-e005-7537-1175-45842aaf061b
