@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: 'Assignment 3: Your Site Over Time'
 parent_type: CourseSection
+parent_uid: 94eadc85-e005-7537-1175-45842aaf061b
 resourcetype: Document
 title: Back Bay in 1887
 uid: ad5dc240-d718-758a-013f-970acba630de

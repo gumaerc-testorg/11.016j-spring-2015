@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2b653594-7e36-695e-77f0-817e67553db4
 resourcetype: Document
 title: MIT 11.016J S15 Citation Guide
 uid: fbf994a1-5293-6805-cc63-b6523820e564

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: 'Assignment 1: Select A Site'
 parent_type: CourseSection
+parent_uid: f1403dd2-7f4d-6cf8-923d-478a894b6205
 resourcetype: Document
 title: MIT 11.016J S15 Back Bay Map
 uid: 0297c4ac-8c03-bea2-fd25-7ffb14f35af6

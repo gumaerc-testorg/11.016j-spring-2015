@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 2: Your Site and Natural Processes'
 parent_type: CourseSection
+parent_uid: bf39994b-1e14-9bcb-34d1-e88a771e27fe
 resourcetype: Image
 title: 11016js15_usgstopomap.jpg
 uid: cbf831f1-7e0d-29e7-28e7-bb8b338420f6

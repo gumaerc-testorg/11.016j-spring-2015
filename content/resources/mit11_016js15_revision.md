@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2b653594-7e36-695e-77f0-817e67553db4
 resourcetype: Document
 title: MIT11_016JS15_Revision.pdf
 uid: 3d0507c4-4395-efdd-67e6-0cdca83ce523

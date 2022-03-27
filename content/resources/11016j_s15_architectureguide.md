@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: 'Assignment 4: Artifacts, Layers, Traces, and Trends'
 parent_type: CourseSection
+parent_uid: 11be16ff-59a9-9a87-5ac8-7525eacd82ec
 resourcetype: Document
 title: MIT 11.016J S15 Architecture Guide
 uid: 509a57c4-65d6-9761-cf01-f07c009eef4f
