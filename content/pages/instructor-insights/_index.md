@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: 9a19909c-3e81-3719-371e-073643365598
 ---
@@ -51,11 +52,11 @@ Instructor Insights
 
 _Below, Anne Whiston Spirn describes various aspects of how she teaches 11.016J The Once and Future City_.
 
-*   [Reading the City]({{< baseurl >}}/pages/instructor-insights/reading-the-city)
-*   [Structuring a Communication-Intensive Course]({{< baseurl >}}/pages/instructor-insights/structuring-a-communication-intensive-course)
-*   [Leading Productive Field Trips]({{< baseurl >}}/pages/instructor-insights/leading-productive-field-trips)
-*   [Flipping the Class and Challenging the Students with “A Series of Puzzles”]({{< baseurl >}}/pages/instructor-insights/flipping-the-classroom)
-*   [Drawing Inspiration from Research]({{< baseurl >}}/pages/instructor-insights/drawing-inspiration-from-research)
+*   {{< resource_link aecac14d-3981-02c1-3364-a354c44c2a8d "Reading the City" >}}
+*   {{< resource_link 79681dbc-2d6a-6f6a-ad52-967561f132f7 "Structuring a Communication-Intensive Course" >}}
+*   {{< resource_link 9f88e4ee-f73d-6ef4-f59b-c45fa9badc7d "Leading Productive Field Trips" >}}
+*   {{< resource_link ba42cb06-6687-5e06-c497-ddb8645fc880 "Flipping the Class and Challenging the Students with “A Series of Puzzles”" >}}
+*   {{< resource_link b66ecc11-de23-3c45-4035-bcd3ca798874 "Drawing Inspiration from Research" >}}
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

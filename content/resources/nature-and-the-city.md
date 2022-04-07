@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Assignments
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Assignment 2: Your Site and Natural Processes'
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: Nature and the City
 uid: c17ff30b-eb24-1fb8-050d-adf7350a246e
 video_files:

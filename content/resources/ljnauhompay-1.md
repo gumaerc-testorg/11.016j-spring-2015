@@ -5,6 +5,7 @@ file: /media/courses/11-016j-the-once-and-future-city-spring-2015/046ba94fb33099
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 046ba94f-b330-997e-a76d-82562021927e

@@ -15,7 +15,7 @@ Project Assignment 4: Artifacts, Layers, Traces, and Trends
 
 {{< resource 23efbcd7-ea3b-6ba4-5146-d6b65f66df0e >}}
 
-[Guide to Architectural Styles (PDF - 3.0MB)]({{< baseurl >}}/resources/11016j_s15_architectureguide)
+{{< resource_link 509a57c4-65d6-9761-cf01-f07c009eef4f "Guide to Architectural Styles (PDF - 3.0MB)" >}}
 
 This is the fourth assignment in a four-part, semester-long project. The task of the third assignment was to trace changes on your site over time using old maps, plans, prints, and photographs. Now the objective is to find traces of these changes present in the current environment and to interpret their significance. Many of you were attracted to your site because of some anomalous features that puzzled you and made you wonder why they were there and what had caused them to be. This is an opportunity to explore some answers to such puzzles.
 

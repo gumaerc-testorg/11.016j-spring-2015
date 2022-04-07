@@ -21,7 +21,7 @@ A land use means a type of use, for example residential (single family homes, ap
 
 Boundary Maps for reference:
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[MIT Neighborhood, 1866–1916 (PDF - 4.5MB)]({{< baseurl >}}/resources/mit11_016js15_backbaymap)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 0297c4ac-8c03-bea2-fd25-7ffb14f35af6 "MIT Neighborhood, 1866–1916 (PDF - 4.5MB)" >}}
 
 [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)MIT Neighborhood, 1916-present (PDF - 4MB)]({{< baseurl >}}/resources/11016j_s15_cambridgemap)
 
@@ -43,7 +43,7 @@ A site that contains more than four square blocks (i.e. two blocks on a side) an
 
 One of the key elements of close reading is selection. You have good reasons for choosing your particular site, so use those reasons to animate this paper. Use these reasons to justify your choice. The site you choose and where you draw its boundaries is your topic, the text you will analyze and explain. A good choice will generate a set of interesting questions, which will provide a purpose and framework for your observations.
 
-[Read Grady Clay's "How to Read a City"]({{< baseurl >}}/pages/readings). Consider his writing as a possible "how to" or guide to asking the right kinds of questions about your site. Keep in mind that you'll have ideas about how to look from reading Clay before and as you choose your site, and again, once you have chosen it.
+{{< resource_link fad67e91-4d95-0355-dde9-3f0776b43ed1 "Read Grady Clay's \"How to Read a City\"" >}}. Consider his writing as a possible "how to" or guide to asking the right kinds of questions about your site. Keep in mind that you'll have ideas about how to look from reading Clay before and as you choose your site, and again, once you have chosen it.
 
 **What does it mean to be intrigued by a site and to ask questions of the site?**
 

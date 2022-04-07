@@ -17,7 +17,7 @@ Project Assignment 3: Your Site Over Time
 
 © Sources Unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 
-[Framing Your Paper (PDF - 1.1MB)]({{< baseurl >}}/resources/mit11_016js15_change)
+{{< resource_link ad5dc240-d718-758a-013f-970acba630de "Framing Your Paper (PDF - 1.1MB)" >}}
 
 This is the third part of a four-part, semester-long project. The first part consisted of finding a site; the second, to find evidence of its environmental history and ongoing natural processes. Now the task is to trace changes on your site over time by comparing its character at several points in time, using maps. You may find different kinds of changes: Land use, density of settlement, additions to buildings, ownership, transportation. The types of sources you will find helpful are historical maps, especially nineteenth and twentieth-century atlases, and may also include plans, prints, and photographs. The paper is due on **class 17**.
 
@@ -53,7 +53,7 @@ Maps, atlases, and surveys have been produced throughout the histories of Americ
 
 You will need to do considerable map research to write this paper. Maps, particularly nineteenth- and twentieth-century fire insurance atlases will be the basis for your observations about how and why your site has changed over time. Look for maps dating back as early as possible to fully understand the site's development over time. Refer to maps at a larger scale, such as those in Krieger, _Mapping Boston_, in order to put your site in context.
 
-Assemble your maps as soon as possible. They are the primary source for all your observations, so you cannot truly begin this assignment without them. Use the [**Map Guide (PDF)**]({{< baseurl >}}/resources/mit11_016js15_mapguide)  to begin your map research and for references to further resources. Use your journal to make initial observations of the maps and to try out some of your ideas. Be prepared to puzzle about or be surprised by what you find.
+Assemble your maps as soon as possible. They are the primary source for all your observations, so you cannot truly begin this assignment without them. Use the {{< resource_link 3365a6d7-512c-5dbb-8cc9-687dadfa9c15 "**Map Guide (PDF)**" >}}  to begin your map research and for references to further resources. Use your journal to make initial observations of the maps and to try out some of your ideas. Be prepared to puzzle about or be surprised by what you find.
 
 Tips for Using Fire Insurance Maps to Discover How Your Site Changed Over Time
 ------------------------------------------------------------------------------
