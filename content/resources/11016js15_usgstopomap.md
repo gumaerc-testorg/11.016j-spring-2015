@@ -2,7 +2,7 @@
 content_type: resource
 description: A topographical map of Boston and Cambridge along the Charles River.
   Map via the United States Geological Survey. This image is in the public domain.
-file: /media/courses/11-016j-the-once-and-future-city-spring-2015/cbf831f17e0d29e728e7bb8b338420f6_11016js15_usgstopomap.jpg
+file: /courses/11-016j-the-once-and-future-city-spring-2015/cbf831f17e0d29e728e7bb8b338420f6_11016js15_usgstopomap.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A topographical map of Boston and Cambridge along the Charles River.
@@ -19,3 +19,5 @@ resourcetype: Image
 title: 11016js15_usgstopomap.jpg
 uid: cbf831f1-7e0d-29e7-28e7-bb8b338420f6
 ---
+A topographical map of Boston and Cambridge along the Charles River. Map via the United States Geological Survey. This image is in the public domain.
+

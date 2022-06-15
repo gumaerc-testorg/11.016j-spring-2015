@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Assignments
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: 'Assignment 4: Artifacts, Layers, Traces, and Trends'
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Traces and Trends
 uid: 23efbcd7-ea3b-6ba4-5146-d6b65f66df0e
 video_files:
@@ -29,3 +30,6 @@ video_metadata:
 [https://vimeo.com/85058981](https://vimeo.com/85058981)
 
 **Instructor:** Anne Whiston Spirn
+
+
+

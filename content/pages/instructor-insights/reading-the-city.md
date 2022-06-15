@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In this section, Anne Whiston Spirn discusses how 11.016J The Once and
+  Future City challenges students to think in new ways. Specifically, the course offers
+  student the opportunity to develop visual thinking skills and to consider the processes
+  that shape urban form.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

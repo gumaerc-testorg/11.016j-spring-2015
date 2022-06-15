@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-016j-the-once-and-future-city-spring-2015/509a57c465d69761cf01f07c009eef4f_11016J_S15_ArchitectureGuide.pdf
+file: /courses/11-016j-the-once-and-future-city-spring-2015/509a57c465d69761cf01f07c009eef4f_11016J_S15_ArchitectureGuide.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

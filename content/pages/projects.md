@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section contains links to student project examples.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
-parent_uid: null
 title: Projects
 uid: 3a8691a5-b5f7-ff36-3b59-142154604677
 ---

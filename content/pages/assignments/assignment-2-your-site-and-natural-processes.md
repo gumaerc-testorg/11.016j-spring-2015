@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains further information about the second project assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -58,7 +59,7 @@ Thinking about the assembly of the paper in steps might be helpful; here's a men
 Starting to Write
 -----------------
 
-### {{< resource_link f087199e-4275-da8c-3319-046c19d2ae62 "Writing Guide for Assignment 2: Refining and Combining Observations (PDF)" >}}
+### {{% resource_link f087199e-4275-da8c-3319-046c19d2ae62 "Writing Guide for Assignment 2: Refining and Combining Observations (PDF)" %}}
 
 You will need three kinds of material to write your paper:
 

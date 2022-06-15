@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-016j-the-once-and-future-city-spring-2015/f087199e4275da8c3319046c19d2ae62_MIT11_016JS15_Library.pdf
+file: /courses/11-016j-the-once-and-future-city-spring-2015/f087199e4275da8c3319046c19d2ae62_MIT11_016JS15_Library.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

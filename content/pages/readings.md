@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section contains information about the readings for the semester.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: fad67e91-4d95-0355-dde9-3f0776b43ed1
 ---
