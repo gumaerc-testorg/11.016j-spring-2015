@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Anne Whiston Spirn shares her insights about facilitating
+  field trips in 11.016J/4.211J The Once and Future City.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,8 +12,7 @@ parent_uid: 9a19909c-3e81-3719-371e-073643365598
 title: Leading Productive Field Trips
 uid: 9f88e4ee-f73d-6ef4-f59b-c45fa9badc7d
 ---
-
-_In this section, Anne Whiston Spirn shares her insights about facilitating field trips in_ 11.016J/4.211J The Once and Future City_._
+_In this section, Anne Whiston Spirn shares her insights about facilitating field trips in_ 11.016J/4.211J The Once and Future City.
 
 Field trips in this course take place during class time. Since class lasts only an hour and a half, the field trips have to be somewhere that we can walk to from the classroom. The first year I added the field trips, I chose the area to the north of the MIT campus. Many changes have have taken place there over the years. In choosing the route, I looked for traces from different time periods—street patterns, housing types, and businesses that belonged to different time periods—so we could compare and contrast as we walked around. The area north of campus has much more variety than the campus itself, even though the campus is pretty interesting.
 

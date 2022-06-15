@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "In this section, Anne Whiston Spirn shares how flipping her classroom\
+  \ \u201Ccompletely changed\u201D students\u2019 experience in 11.016J/4.211J The\
+  \ Once and Future City."
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,8 +13,7 @@ parent_uid: 9a19909c-3e81-3719-371e-073643365598
 title: "Flipping the Class and Challenging the Students with \u201CA Series of Puzzles\u201D"
 uid: ba42cb06-6687-5e06-c497-ddb8645fc880
 ---
-
-_In this section, Anne Whiston Spirn shares how flipping her classroom “completely changed” students’ experience in_ 11.016J/4.211J The Once and Future City_._
+_In this section, Anne Whiston Spirn shares how flipping her classroom “completely changed” students’ experience in_ 11.016J/4.211J The Once and Future City.
 
 I flipped this course several years ago, taking out the lectures, and it worked really well. The project was made possible by a grant from the MIT Alumni Class Fund. The way I taught the class before, it was jam-packed with lectures. I realized I was spending time in class talking about the material in the readings, illustrated with some further examples, but the students were doing the hardest tasks on their own: making observations, finding a thesis, and constructing an argument. Flipping the class made room for field trips and workshops during class time.
 
