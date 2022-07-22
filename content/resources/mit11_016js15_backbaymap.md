@@ -5,6 +5,7 @@ file: /courses/11-016j-the-once-and-future-city-spring-2015/0297c4ac8c03bea2fd25
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Assignment 1: Select A Site'
 parent_type: CourseSection

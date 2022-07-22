@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ video_metadata:
 [https://vimeo.com/85058980](https://vimeo.com/85058980)
 
 **Instructor:** Anne Whiston Spirn
-
-
 

@@ -5,6 +5,7 @@ file: /courses/11-016j-the-once-and-future-city-spring-2015/509a57c465d69761cf01
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Assignment 4: Artifacts, Layers, Traces, and Trends'
 parent_type: CourseSection

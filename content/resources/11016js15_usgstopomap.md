@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A topographical map of Boston and Cambridge.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 2: Your Site and Natural Processes'
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 11016js15_usgstopomap.jpg
 uid: cbf831f1-7e0d-29e7-28e7-bb8b338420f6
 ---
 A topographical map of Boston and Cambridge along the Charles River. Map via the United States Geological Survey. This image is in the public domain.
-
