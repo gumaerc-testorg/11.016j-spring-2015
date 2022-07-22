@@ -1,13 +1,18 @@
 ---
 content_type: page
+description: In this section, Anne Whiston Spirn discusses how her research shapes
+  11.016J/4.211J The Once and Future City.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9a19909c-3e81-3719-371e-073643365598
 title: Drawing Inspiration from Research
 uid: b66ecc11-de23-3c45-4035-bcd3ca798874
 ---
-
-_In this section, Anne Whiston Spirn discusses how her research shapes 1_1.016J/4.211J The Once and Future City_._
+_In this section, Anne Whiston Spirn discusses how her research shapes_ 11.016J/4.211J The Once and Future City.
 
 {{< quote "Every place is in the process of becoming." "— Anne Whiston Spirn" >}}
 

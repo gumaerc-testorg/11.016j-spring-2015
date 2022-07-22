@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains further information about the second project assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2b653594-7e36-695e-77f0-817e67553db4
 title: 'Assignment 2: Your Site and Natural Processes'
 uid: bf39994b-1e14-9bcb-34d1-e88a771e27fe
@@ -54,7 +59,7 @@ Thinking about the assembly of the paper in steps might be helpful; here's a men
 Starting to Write
 -----------------
 
-### [Writing Guide for Assignment 2: Refining and Combining Observations (PDF)]({{< baseurl >}}/resources/mit11_016js15_library)
+### {{% resource_link f087199e-4275-da8c-3319-046c19d2ae62 "Writing Guide for Assignment 2: Refining and Combining Observations (PDF)" %}}
 
 You will need three kinds of material to write your paper:
 

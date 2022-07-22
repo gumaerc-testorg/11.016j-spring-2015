@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: In this section, Anne Whiston Spirn discusses how 11.016J The Once and
+  Future City challenges students to think in new ways. Specifically, the course offers
+  student the opportunity to develop visual thinking skills and to consider the processes
+  that shape urban form.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9a19909c-3e81-3719-371e-073643365598
 title: Reading the City
 uid: aecac14d-3981-02c1-3364-a354c44c2a8d
