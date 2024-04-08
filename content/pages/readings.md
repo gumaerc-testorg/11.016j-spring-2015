@@ -8,7 +8,7 @@ title: Readings
 uid: fad67e91-4d95-0355-dde9-3f0776b43ed1
 ---
 
-\[JE\] = Elkins, James. _How to Use Your Eyes_. Routledge, 2000. ISBN: 9780415922548. \[Preview with [Google Books](http://books.google.com/books?id=YPKSAgAAQBAJ&pg=PAfrontcover)\]
+\[JE\] = Elkins, James. _How to Use Your Eyes_. Routledge, 2000. ISBN: 9780415922548. \[Preview with {{% resource_link "8f9cf3a6-6e12-49d0-b6b0-2071d0c5da25" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -28,7 +28,7 @@ READINGS
 Part 1: Reading the City
 {{< tdclose >}}
 {{< tdopen >}}
-Clay, Grady. _Close-Up: How to Read the American City_. University of Chicago Press, 1980, pp. 11–16 and 38–65. ISBN: 9780226109459. \[Preview with [Google Books](http://books.google.com/books?id=_UkCbMQakaIC&pg=PAfrontcover)\]
+Clay, Grady. _Close-Up: How to Read the American City_. University of Chicago Press, 1980, pp. 11–16 and 38–65. ISBN: 9780226109459. \[Preview with {{% resource_link "437c4c83-9712-420b-b096-b1d9a0ef9796" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +43,7 @@ Spirn, Anne Whiston. _The Granite Garden: Urban Nature and Human Design_. Vol. 5
 
 \[JE\] "Preface," "How to Look at a Culvert," "How to Look at Pavement," "How to Look at a Twig."
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611732) Krieger, Alex, David A. Cobb, eds. _Mapping Boston_. MIT Press, 2001. ISBN: 9780262611732.
+{{% resource_link "a6586450-ebc6-495b-ba9c-a1c978ef78d7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Krieger, Alex, David A. Cobb, eds. _Mapping Boston_. MIT Press, 2001. ISBN: 9780262611732.
 
 
 {{< tdclose >}}
@@ -56,9 +56,9 @@ Part III: City and Society: Social Processes as Agents of Change
 {{< tdopen >}}
 
 
-Jackson, Kenneth T. _Crabgrass Frontier: The Suburbanization of the United States_. Oxford University Press, 1987. ISBN: 9780195049831. \[Preview with [Google Books](http://books.google.com/books?id=XDQC1w1LIFMC&pg=PAfrontcover)\]
+Jackson, Kenneth T. _Crabgrass Frontier: The Suburbanization of the United States_. Oxford University Press, 1987. ISBN: 9780195049831. \[Preview with {{% resource_link "271174de-738c-44f1-85f5-62020f5ca612" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611732) Warner, Sam Bass, Jr. "A Brief History of Boston." _Mapping Boston._ MIT Press, 2001. ISBN: 9780262611732.
+{{% resource_link "a6586450-ebc6-495b-ba9c-a1c978ef78d7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Warner, Sam Bass, Jr. "A Brief History of Boston." _Mapping Boston._ MIT Press, 2001. ISBN: 9780262611732.
 
 
 {{< tdclose >}}
@@ -71,11 +71,11 @@ Part IV: Looking Back, Looking Ahead: Envisioning and Shaping Future Cities
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581523) Hayden, Dolores. _The Power of Place: Urban Landscapes as Public History_. MIT Press, 1997, pp. 14–43 and 226–38. ISBN: 9780262581523. \[Preview with [Google Books](https://books.google.com/books?id=bpQB4ogOQscC&pg=PA226#v=onepage&q&f=false)\]
+{{% resource_link "87dd1ea4-2328-4fcd-b664-8db72d303104" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hayden, Dolores. _The Power of Place: Urban Landscapes as Public History_. MIT Press, 1997, pp. 14–43 and 226–38. ISBN: 9780262581523. \[Preview with {{% resource_link "abeca6bf-889a-4c16-95d7-85d9619c1ec4" "Google Books" %}}\]
 
 Spirn, Anne Whiston. "The Yellowwood and the Forgotten Creek (Prologue)_._" In _The Language of Landscape_. Yale University Press, 2000. ISBN: 9780300082944.
 
-[The West Philadelphia Landscape Project](http://www.wplp.net/)
+{{% resource_link "7cab4c04-61df-4f1f-af53-6d0e009d4f79" "The West Philadelphia Landscape Project" %}}
 
 
 {{< tdclose >}}
