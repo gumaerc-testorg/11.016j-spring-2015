@@ -34,7 +34,7 @@ None
 
 - CI-H ![](/images/educator/icon-question-cih.png)
 - HASS-H ![](/images/educator/icon-question-hass-h.png)
-- _11.016J_ can be applied towards a [Bachelor of Science in Planning](http://catalog.mit.edu/degree-charts/planning-course-11/), but is not required
+- _11.016J_ can be applied towards a {{% resource_link "b01875d1-ebc6-4478-8ad4-53d65dac2036" "Bachelor of Science in Planning" %}}, but is not required
 
 ### Offered
 
