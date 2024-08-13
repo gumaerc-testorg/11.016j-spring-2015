@@ -1,18 +1,16 @@
 ---
 content_type: page
 description: This section contains links to student project examples.
+draft: false
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 3a8691a5-b5f7-ff36-3b59-142154604677
 ---
-
 Below are links to some of the student projects from previous years:
 
 **2015**
-
-[The Fork At Copley](http://www.beccazhang.com/4-211/index.html)
 
 [Main Street](http://web.mit.edu/thecity/archive/projects_2015/jcarrus/index.html)
 
