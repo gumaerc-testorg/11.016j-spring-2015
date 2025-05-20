@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-016j-the-once-and-future-city-spring-2015/c3f880b66f4417a705133e45e7990573_LJNAUHOmpAY.srt
+file: /courses/11-016j-the-once-and-future-city-spring-2015/c3f880b66f4417a705133e45e7990573_LJNAUHOmpAY.srt
 file_size: 3097
 file_type: application/x-subrip
 learning_resource_types: []
