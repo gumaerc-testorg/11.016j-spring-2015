@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-016j-the-once-and-future-city-spring-2015/fbf994a152936805cc63b6523820e564_11016J_S15_CitationGuide.pdf
+file: /ol-ocw-studio-app/courses/11-016j-the-once-and-future-city-spring-2015/fbf994a152936805cc63b6523820e564_11016J_S15_CitationGuide.pdf
 file_size: 252535
 file_type: application/pdf
 learning_resource_types:
