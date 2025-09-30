@@ -29,7 +29,7 @@ video_metadata:
 
 **Description:** In this video, Professor Anne Whiston Spirn looks at nature in the city, and how natural processes still occur in our urban landscape. Music: Ataraxia - Lee Rosevere License CC - BY - NC.
 
-[https://vimeo.com/album/3251260/video/87585402](https://vimeo.com/album/3251260/video/87585402)
+{{% resource_link "fcf67d30-55ac-439c-991d-7acdc89433f2" "https://vimeo.com/album/3251260/video/87585402" %}}
 
 **Instructor:** Anne Whiston Spirn
 
