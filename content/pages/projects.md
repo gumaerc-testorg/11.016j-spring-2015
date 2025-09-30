@@ -12,18 +12,18 @@ Below are links to some of the student projects from previous years:
 
 **2015**
 
-[Main Street](http://web.mit.edu/thecity/archive/projects_2015/jcarrus/index.html)
+{{% resource_link "3ebf7206-f507-43cd-aaf7-a8435c575b11" "Main Street" %}}
 
-[Along the Train Tracks](http://web.mit.edu/thecity/archive/projects_2015/linak/FutureCity/index.html)
+{{% resource_link "ac89652c-9366-47ee-aa71-fbbf2b8eec8d" "Along the Train Tracks" %}}
 
 **2014**
 
-[Coolidge Corner](http://web.mit.edu/thecity/archive/projects_2015/bnz/CoolidgeCorner/index.html)
+{{% resource_link "2e8f8b55-9f1a-44a7-b462-97bad65f7bcc" "Coolidge Corner" %}}
 
 **2013**
 
-[The Bulfinch Triangle](http://web.mit.edu/thecity/archive/projects13/the_bulfinch_triangle_dondina/index.html)
+{{% resource_link "e425d75a-b99c-4401-bf06-31cbaf40c6fc" "The Bulfinch Triangle" %}}
 
 **2010**
 
-[The West End](http://web.mit.edu/thecity/archive/projects_2015/aml2010/www/)
+{{% resource_link "a7d2e6e4-f21c-473a-a8ba-eb5fe6be8d51" "The West End" %}}
